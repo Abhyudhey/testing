@@ -7,4 +7,4 @@ def myfunc(a,b):
 
 if __name__ == '__main__':
     result = myfunc(sys.argv[1], sys.argv[2])
-    print result
+    print 'the result is: ', result
